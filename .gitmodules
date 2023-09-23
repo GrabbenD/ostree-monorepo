@@ -1,3 +1,6 @@
 [submodule "ostree"]
 	path = ostree
 	url = https://github.com/GrabbenD/ostree-utility.git
+[submodule "client"]
+	path = client
+	url = https://github.com/GrabbenD/ostree-desktop.git
