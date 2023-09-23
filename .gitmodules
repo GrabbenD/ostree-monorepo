@@ -1,0 +1,3 @@
+[submodule "ostree"]
+	path = ostree
+	url = https://github.com/GrabbenD/ostree-utility.git
